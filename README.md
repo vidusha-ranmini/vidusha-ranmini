@@ -1,6 +1,6 @@
 # About Me 
 
-Hello!👋 I’m Vidusha Ranmini.I am a university of Colombo Schoolof Computing undergraduate with a passion for software development and web design. I have experience in programming languages like Java, C, HTML, and CSS, and I'm constantly working on new projects to build my skills further. This repository showcases some of my projects.
+Hello!👋 I’m Vidusha Ranmini.I am an undergraduate from the University of Colombo school of computing with a passion for software development and web design. I have experience in programming languages like Java, C, HTML, and CSS, and I'm constantly working on new projects to build my skills further. This repository showcases some of my projects.
 
 # Technologies
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
